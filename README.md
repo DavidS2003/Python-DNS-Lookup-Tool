@@ -119,12 +119,12 @@ The DNS response is processed manually to extract:
 
 ### Successful Lookup
 
-(Add screenshot)
+![Successful Lookup](Screenshots/Normal_lookup.png)
 
 ### Lookup Using a Custom DNS Server
 
-(Add screenshot)
+![Custom DNS Lookup](Screenshots/Custom_server.png)
 
 ### Multiple Answer Records
 
-(Add screenshot)
+![Multiple Answer Lookup](Screenshots/Multiple_answers.png)
