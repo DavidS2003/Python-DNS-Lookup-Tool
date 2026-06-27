@@ -58,13 +58,19 @@ Default DNS server:
 ```bash
 python dns_lookup.py google.com
 ```
-
+or
+```bash
+python3 dns_lookup.py google.com
+```
 Custom DNS server:
 
 ```bash
 python dns_lookup.py google.com 8.8.8.8 53
 ```
-
+or
+```bash
+python3 dns_lookup.py google.com 8.8.8.8 53
+```
 ---
 
 ## Example Output
