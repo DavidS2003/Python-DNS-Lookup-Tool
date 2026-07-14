@@ -110,17 +110,6 @@ The DNS response is processed manually to extract:
 
 ---
 
-## Future Improvements
-
-* AAAA record support
-* MX record lookups
-* NS record lookups
-* Timeout handling
-* Recursive CNAME resolution
-* Better error handling
-
----
-
 ## Screenshots
 
 ### Successful Lookup
